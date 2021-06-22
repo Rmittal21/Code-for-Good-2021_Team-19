@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+.inputbar{
+    width:50%;
+}
+.heading{
+    padding-top:1%;
+    text-align: center;
+    padding-bottom: 1%;
+}
+.headerdiv{
+    background-color:#14073a;
+
+}
+form{
+    padding-top:5%;
+    padding-left:30%;
+}
+.footerdiv{
+    background-color: skyblue;
+}
+p{
+    text-align: center;
+}
